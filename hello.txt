@@ -1,21 +1,10 @@
 hello atguigu! hello git! 2222222222
+hello atguigu! hello git! 3333333333
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-hyyyyyyy 复制整行
 hello atguigu! hello git!
 hello atguigu! hello git!
-
-p 粘贴y 复制整行
-
-p 粘贴y 复制整行
-
-p 粘贴y 复制整行
-
-p 粘贴y 复制整行
-
-p 粘贴y 复制整行
-
-p 粘贴ello atguigu! hello git!
+hello atguigu! hello git!
