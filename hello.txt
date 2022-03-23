@@ -15,5 +15,6 @@ hello atguigu! hello git! hot-fix test
 过年归来，万物更新
 从git拉取到本地
 云端测试3 BY VICTOR cloud
-本地测试 BY VICTOR local:
+本地测试 BY VICTOR local
 云端测试4 BY VICTOR cloud
+本地修改代码测试1 BY VICTOR local
